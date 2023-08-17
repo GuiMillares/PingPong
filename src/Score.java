@@ -10,7 +10,7 @@ public class Score extends Rectangle{
 	int player1;
 	int player2;
 	
-	Score(){
+	Score(int GAME_WIDTH, int GAME_HEIGHT){
 		
 	}
 	public void draw(Graphics g) {
